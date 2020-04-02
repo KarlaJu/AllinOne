@@ -1,4 +1,10 @@
 [[series]]
-name = "seriesname"
-img = "images/path"
-summary = "This is the simple summary of the series"
+name = "technology"
+img = "img/portfolio/circuito.jpg"
+summary = "This is the place I write about technology"
+
+
+[[series]]
+name = "books"
+img = "img/portfolio/libro.jpg"
+summary = "This are all the books and stories I've read this year"
